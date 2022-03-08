@@ -1,2 +1,2 @@
 [filter_remote]
-IP-CIDR,10.0.0.0/8
+IP-CIDR,10.0.0.0/24
